@@ -1,0 +1,108 @@
+
+Tortilla Factory (v.0.2 February 20 2018)
+Beta adress: http://tortillafactory.eu3.biz/
+Working hours website update : 20h (tot h : 80)
+
+_________________________________________________________________________
+
+21.2 Email (2h)
+
+
+0.1 DONE 
+
+No están agregada ninguna foto que te envié del proceso ni la fabrica. (quedamos en ponerlas en pagina principal, "proceso", etc)
+
+0.2 SENT
+
+Necesito tu lista de precios que se pueda hacer copy-paste, no en pdf. Cuando das click a "bULK" mira eso, no aparece mi lista de precios... mas bien una agenda de gimnasio.
+
+0.3 DONE 
+
+Por favor quita mi nombre en la pagina principal como CEO
+
+0.4 DONE En retail, agrega Francia y Portugal, te mando los links mas tarde
+
+0.5 DONE
+Érase totopos from products
+
+0.6  DONE
+and where you have the 
+pic of blue corn delete that part
+
+
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
+
+
+1.0 DONE
+Delete totopos from all the quality subheaders
+
+1.1 DONE 
+Logo Front Page
+
+0.8 DONE 
+This one use as background in the ORDER or Contact page
+
+1.2 DONE
+Background image Front Page
+
+1.4 DONE 
+New process titling 
+
+0.9 DONE
+Instead of packaged solutions h1, put logo in instances of sentence on specific page (done) 
+
+0.7  DONE 
+Products page layout
+
+1.7  DONE 
+Update header background image on bulk.html
+
+1.3  DONE 
+SEND Portugal AND France TO BULK FORM
+
+1.5  DONE
+Add PDF Price List
+
+1.6 DONE
+Fill native price lists and check mobile phone compatibility // price list being downloaded
+
+1.8 BEING DONE 
+Reroute email forwarding to tortillafactoryspain@gmail.com
+
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
+
+
+ ✔ 1.1 AS BEFORE    Pagina Frontal English : Con el logo discreto
+ ✔ 1.2 AS BEFORE    Otonal sepia Ok
+ ✔ 1.3 AS BEFORE    ORDER : "Quality packaged.."
+ ✔ 1.4 AS BEFORE    Bulk / Retail OK
+
+
+ ✔ 2.1 CHANGED      Discover : Order instead
+ ✔ 2.2 CHANGED      Discover-button = Our Process-button
+ ✔ 2.3 CHANGED      Order Bulk Now : Prices expanding in modal
+ ✔ 2.4 CHANGED      Cancelling "Download our price list"
+ (tot hours: 8)
+
+
+ ✔ 3.1 ADDED        Retail: MODAL
+ ✔ 3.2 ADDED        Retail: Countries-specific (NL) JQUERY MODAL
+ ✔ 3.3 ADDED        Form placeholder ("Dear Tortilla Factory...")
+ ✔ 3.4 ADDED        E-mail forwarding function possible (tortillafactory@gmail.com) 
+ (tot hours: 8)
+
+
+ ✔ 4.1 CANCELLED :  DISCOVER : (Travel back: CANCELLED / A Mayan And Aztec Tradition: CANCELLED)
+ ✔ 4.2 UPDATED :    Navigation uniformity
+ ✔ 4.3 FTP UPLOAD : FTP Upload of website upload
+ (hours: 4)
+
+COMMUNICATIONS
+5.1 Please provide 2018 Price-list to fit Modal Pop-Up layout.
+5.2 As soon as ready, please confirm email is ready to receive orders via website (tortillafactory@gmail.com)
+5.3 Please provide video of production of tortillas in order to plug it in to page : http://tortillafactory.eu3.biz/discover.html
+
+ 
+ 
